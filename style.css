@@ -102,13 +102,15 @@ nav ul li a.active{
   }
 p{
   color: #fff;
+  padding: 100px;
+  box-sizing: border-box;
+  height: auto;
 }
 h1{
   color: #fff;
   text-transform: uppercase;
   font-weight: bold;
   background-color: #f00;
-  border-radius: 20px;
   text-align: center;
 }
 
